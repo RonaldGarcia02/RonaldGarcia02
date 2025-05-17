@@ -17,3 +17,11 @@ Currently pursuing my M.S. in Data Science (Analytics and Modeling Track) at the
 ## 🚀 Let's Connect
 
 Feel free to check out my repositories and reach out if you'd like to collaborate or learn more about my work. I’m always open to new opportunities in data science, analytics, and research.
+
+## Python
+
+| Project Link | Completion Date | Tools Used | Project Description |
+|--------------|-----------------|------------|----------------------|
+| 🏃 [Ultra Marathon Data Analysis](https://github.com/RonaldGarcia02/Ultra-Marathon-Data) | May 2025 | Python, Pandas, Matplotlib, Seaborn, Google Colab | Performed exploratory data analysis on ultra marathon runners. Cleaned and visualized participation trends, finish times, and gender/age group distributions to uncover meaningful insights. |
+
+
