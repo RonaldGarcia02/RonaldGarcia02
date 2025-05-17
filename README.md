@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Ronald Garcia
 
-<!--
-**RonaldGarcia02/RonaldGarcia02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Tampa, FL | 📧 ronald.gar2002@gmail.com | 📱 (813) 546-1496
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+I’m a Data Science graduate student with a strong background in analytics, programming, and data visualization. My passion lies in turning complex datasets into clear, actionable insights that drive meaningful decisions.
+
+Currently pursuing my M.S. in Data Science (Analytics and Modeling Track) at the University of West Florida, I hold dual B.S. degrees in Business Analytics & Information Systems and Information Science (with a Data Science and Analytics concentration), both earned **Magna Cum Laude** from the University of South Florida.
+
+## 🧠 Skills
+
+- **Programming & Analytics:** Python, R, SQL, C#
+- **Data Visualization:** Tableau, Power BI, Excel
+
+## 🚀 Let's Connect
+
+Feel free to check out my repositories and reach out if you'd like to collaborate or learn more about my work. I’m always open to new opportunities in data science, analytics, and research.
