@@ -24,4 +24,10 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 |--------------|-----------------|------------|----------------------|
 | 🏃 [Ultra Marathon Data Analysis](https://github.com/RonaldGarcia02/Ultra-Marathon-Data) | May 2025 | Python, Pandas, Matplotlib, Seaborn, Google Colab | Performed exploratory data analysis on ultra marathon runners. Cleaned and visualized participation trends, finish times, and gender/age group distributions to uncover meaningful insights. |
 
+## Machine Learning Projects
+
+| Project Link | Completion Date | Tools Used | Project Description |
+|--------------|-----------------|-------------|----------------------|
+| ⚾ [MLB Win Percentage Prediction](https://github.com/RonaldGarcia02/Predicting-Team-Win-Percentage) | May 2025 | Python, Pandas, scikit-learn, Matplotlib, Google Colab | Built and evaluated a Random Forest model to predict MLB team win percentage based on payroll, attendance, and offensive stats. Performed full data cleaning and exploratory analysis. |
+
 
