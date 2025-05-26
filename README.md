@@ -28,6 +28,7 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 
 | Project Link | Completion Date | Tools Used | Project Description |
 |--------------|-----------------|-------------|----------------------|
+| [Predicting Flight Delays](https://github.com/RonaldGarcia02/Predicting-Flight-Delays/tree/main) | May 2025 | Python, Pandas, scikit-learn, RandomForests, XGBoost, Matplotlib, Seaborn, Power BI | Developed a classification model to predict whether a flight would be delayed using flight schedule and weather data. Performed full data cleaning, feature engineering, model tuning, and exploratory analysis.
 | ⚾ [MLB Win Percentage Prediction](https://github.com/RonaldGarcia02/Predicting-Team-Win-Percentage) | May 2025 | Python, Pandas, scikit-learn, Matplotlib, Google Colab | Built and evaluated a Random Forest model to predict MLB team win percentage based on payroll, attendance, and offensive stats. Performed full data cleaning and exploratory analysis. |
 
 
