@@ -11,8 +11,11 @@ Currently pursuing my M.S. in Data Science (Analytics and Modeling Track) at the
 
 ## 🧠 Skills
 
-- **Programming & Analytics:** Python, R, SQL, C#
-- **Data Visualization:** Tableau, Power BI, Excel
+Programming & Analytics: Python, SQL, R, C#
+
+Machine Learning: scikit-learn, XGBoost, Random Forest, Model Evaluation
+
+Data Wrangling & Visualization: Pandas, Matplotlib, Seaborn, Power BI, Excel
 
 ## 🚀 Let's Connect
 
