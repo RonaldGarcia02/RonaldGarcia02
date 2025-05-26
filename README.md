@@ -11,7 +11,7 @@ Currently pursuing my M.S. in Data Science (Analytics and Modeling Track) at the
 
 ## 🧠 Skills
 
-Programming & Analytics: Python, SQL, R, C#
+Programming: Python, SQL, R, C#
 
 Machine Learning: scikit-learn, XGBoost, Random Forest, Model Evaluation
 
